@@ -9,3 +9,5 @@ Python libraries used in project-
 2. Matplotlib
 3. datetime
 4. os
+
+5. Note- Data folder is added to .gitignore
